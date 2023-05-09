@@ -1,0 +1,117 @@
+.txt1{
+text-align: center;
+    font-size: 50px;
+    
+
+}
+
+.txt2{
+    text-align: center;
+    font-size: 40px;
+}
+
+.txt3{
+    text-align: center;
+    font-size: 35px;
+}
+.txt4{
+    text-align: center;
+    font-size: 25px;
+}
+.txt5{
+    text-align: center;
+    font-size: 35px;
+}
+.txt6{
+    text-align: center;
+    
+font-size: 25px;
+}
+.txt7{ 
+    text-align: center;
+    font-size: 35px;
+}
+.txt8{
+    text-align: center;
+    font-size: 25px;
+}
+.txt9{
+    text-align: center;
+    font-size: 35px;
+}
+.txt10{
+    text-align: center;
+    font-size: 25px;
+}
+.txt11{
+    text-align: center;
+    font-size: 35px;
+}
+.txt12{
+    text-align: center;
+    font-size: 25px;
+}
+.txt13{ 
+    text-align: center;
+    font-size: 35px
+    
+}
+.txt14{
+    font-size: 60px;
+}
+.txt15{ 
+    text-align: center;
+    font-size: 25px;
+}
+.txt16{
+    text-align: center;
+    font-size: 35px;
+}
+.txt17{
+    text-align: center;
+    font-size: 25px;
+}
+.txt18{
+    text-align: center;
+    font-size: 35px;
+}
+.txt19{ text-align: center  ;
+    font-size: 25px;
+}
+.txt20{
+    text-align: center;
+    font-size: 35px;
+}
+.txt21{
+    text-align: center;
+    font-size: 25px;
+}
+.txt22{
+    text-align: center;
+    font-size: 35px;
+}
+.txt23{ 
+    text-align: center;
+    font-size: 25px;
+}
+
+footer.titulo-seccion,
+footer .copy{
+    color: #000000;
+    text-align: center;
+   
+
+}
+.Redes-Sociales{
+    display: flex;
+    justify-content: center;
+
+}
+.Redes-Sociales i{
+    font-size: 30px;
+    padding: 0 20px 0 20px;
+    text-align: center;
+}
+.contenedor{
+    text-align: center;
+}
